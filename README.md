@@ -2,12 +2,6 @@
 ![image](https://github.com/Hareesh061/Hareesh061/assets/90563881/348763f0-0f2f-4d34-8be9-d7ee50720206)
 
 
-<br>
-<br><br>
-<br>
-<br><br>
-<br><br>
-<br>
 <h1 align="center">Hi 👋, I'm Hareesh Naik</h1>
 <h3 align="center">A passionate learner from India</h3>
 <br>
