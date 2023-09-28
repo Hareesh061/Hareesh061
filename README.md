@@ -1,5 +1,8 @@
 
-![image](https://github.com/Hareesh061/Hareesh061/assets/90563881/348763f0-0f2f-4d34-8be9-d7ee50720206)
+![image](https://github.com/Hareesh061/Hareesh061/assets/90563881/50043d41-36ea-44ca-8faa-0635ec5e4eac)
+
+
+
 
 
 <h1 align="center">Hi 👋, I'm Hareesh Naik</h1>
