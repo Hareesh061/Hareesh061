@@ -1,5 +1,5 @@
 
-![image](https://github.com/Hareesh061/Hareesh061/assets/90563881/55420cd7-ecda-4e99-b0f5-2aa08e13f7e0)
+<img height="100%" width="100%" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif"/>
 
 <h1 align="center">Hi 👋, I'm Hareesh Naik</h1>
 <h3 align="center">A passionate learner from India</h3>
