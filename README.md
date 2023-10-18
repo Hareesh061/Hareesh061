@@ -3,10 +3,24 @@
 
 <h1 align="center">Hi 👋, I'm Hareesh Naik</h1>
 <h3 align="center">A passionate learner from India</h3>
+<p align="left">
+🚀 Computer Science Graduate.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hareesh061&label=Profile%20views&color=0e75b6&style=flat" alt="hareesh061" /> </p>
+🔗 Diverse tech interests from AI to web development.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hareesh061" alt="hareesh061" /></a> </p>
+💡 Committed to lifelong learning and industry trends.
+
+💻 Building a dynamic project portfolio.
+
+🌐 Ready to collaborate and grow in the tech world. 📈
+
+</p>
+
+<img align="right"  height="50%" width="50%" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<br/><br/>
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hareesh061" alt="hareesh061" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
