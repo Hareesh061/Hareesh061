@@ -12,8 +12,6 @@
 
 💡 Committed to lifelong learning and industry trends.
 
-💻 Building a dynamic project portfolio.
-
 🌐 Ready to collaborate and grow in the tech world. 📈
 
 </p>
