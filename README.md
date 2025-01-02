@@ -8,7 +8,7 @@
 <p align="left">
 🚀 Computer Science Graduate.
 
-🔗 Diverse tech interests from AI to web development.
+🔗 Diverse tech interests from AI & Automation to web development.
 
 💡 Committed to lifelong learning and industry trends.
 
