@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **hareeshnaik836@gmail.com**
 
-- **My Portfolio- https://66c593593a9936ef9dd23201--coruscating-faloodeh-6cc8fe.netlify.app**
+- **My Portfolio- https://snazzy-tiramisu-cdbbe0.netlify.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
