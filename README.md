@@ -81,7 +81,7 @@ I'm a **Frontend Developer** skilled in **React** & **modern UI** technologies, 
 - Artificial Intelligence & Machine Learning  
 - AI Agents & Automation
 - Embedded System
-- Intelligent Automation  
+- Intelligent Web Solutions 
 
 ---
 
