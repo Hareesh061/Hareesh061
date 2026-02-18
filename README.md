@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-I'm a **Frontend Developer** skilled in **React** & **modern UI** technologies, with growing interests in **AI/ML** and **Embedded Systems**. Passionate about building intuitive interfaces and smart, real-world solutions.
+I'm a **Frontend Developer** skilled in **React** & **modern UI** technologies, with growing interests in **AI/ML** and **Intelligent Models**. Passionate about building intuitive interfaces and smart, real-world solutions.
 
 ---
 
