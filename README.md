@@ -13,7 +13,7 @@
 
 I'm a **Frontend Developer** skilled in **React** & **modern UI** technologies, with growing interests in **AI/ML** and **Intelligent Models**. Passionate about building intuitive interfaces and smart, real-world solutions.
 
-<h3> Resume: https://drive.google.com/file/d/1J6glYFuru3FifrFxzSKBL6XwUsTa_9Wa/view?usp=sharing </h3>
+<h3> Resume: https://drive.google.com/file/d/113KsmbgsAeL-yYhmWr1IIiUpVdlpayxa/view?usp=sharing </h3>
 
 ---
 
