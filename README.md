@@ -1,5 +1,5 @@
 
-<img height="100%" width="100%" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif"/>
+<img height="100%" width="100%" src="https://i.pinimg.com/1200x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg"/>
 
 <h1 align="center">Hi 👋, I'm Hareesh Naik</h1>
 <h3 align="center">A passionate learner from India</h3>
